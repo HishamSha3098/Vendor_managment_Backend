@@ -5,7 +5,7 @@ This Django-based Vendor Management System (VMS) handles vendor profiles, purcha
 Clone the Repository:
 
 
-git clone https://github.com/your-username/vendor-management-system.git
+git clone https://github.com/HishamSha3098/Vendor_managment_Backend.git
 Navigate to the Project Directory:
 
 
@@ -13,9 +13,9 @@ cd vendor-management-system
 Create and Activate Virtual Environment:
 
 python -m venv venv
-source venv/bin/activate   # For Linux/Mac
+source myenv/bin/activate   # For Linux/Mac
 # or
-.\venv\Scripts\activate    # For Windows
+.\myenv\Scripts\activate    # For Windows
 Install Dependencies:
 
 pip install -r requirements.txt
